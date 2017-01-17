@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-![](http://i.imgur.com/V6P1U1h.gif)
+![](http://i.imgur.com/12W0SqY.gif)
 
 
 
