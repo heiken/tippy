@@ -1,4 +1,4 @@
-# Pre-work - *tippy*
+# Pre-work for CodePath - *tippy*
 
 **tippy** is a tip calculator application for iOS.
 
